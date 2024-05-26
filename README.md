@@ -14,7 +14,7 @@ Here we have project screenshot :
 ## LICENSE
 > MIT License
 >
-> Copyright (c) 2022 tandpfun 
+> Copyright (c) 2024 Devis Wisley 
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
